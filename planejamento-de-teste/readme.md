@@ -104,9 +104,9 @@ Não há necessidade de contratação ou treinamento adicional!
 
 **Métricas:**
 
-* % de perguntas respondidas corretamente
-* Nº de falhas encontradas
-* % de testes aprovados
+* 100% de perguntas respondidas corretamente
+* 0 de falhas encontradas
+* 100% de testes aprovados
 
 **Dados de teste:**
 
@@ -130,9 +130,7 @@ Funcionalidade: [Funcionalidade testada]
     Então [resposta esperada do chatbot]
 ```
 
-Essa abordagem facilita a compreensão entre áreas técnicas e não técnicas, além de permitir uma futura automação dos testes com ferramentas de BDD (Behavior-Driven Development, ou em português Desenvolvimento Orientado a Comportamento) como **Cucumber**. 
-
-Os arquivos `.feature` estarão disponíveis na pasta `casos-de-teste/` do repositório
+Essa abordagem facilita a compreensão entre áreas técnicas e não técnicas.
 
 **Desvios:**
 

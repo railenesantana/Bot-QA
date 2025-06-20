@@ -28,6 +28,7 @@ O projeto inclui um plano de teste estruturado segundo o conteúdo típico suger
 ## Ferramentas utilizadas
 - Chatling (criação do bot)
 - GitHub (portfólio)
+- Screenpresso (Ferramenta de evidências para captura de tela e gravações em vídeo)
 
 ## Autora
 Railene Santana  
